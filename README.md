@@ -49,6 +49,7 @@
 
 ## 파일 구조
 
+```bash
 public
 └─ assets
 ├─ icons
@@ -71,6 +72,7 @@ src
 ├─ routes
 ├─ App.tsx
 └─ index.tsx
+```
 
 ## 주요 기능
 
