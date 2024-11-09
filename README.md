@@ -55,20 +55,22 @@ public
 ├─ icons
 └─ images
 src
-├─ apis // api 요청, 인스턴스...
+├─ apis
 ├─ components
-├── common // button, input, nav, footer...
-└── home // 페이지별 컴포넌트
-├─ pages // 페이지
-├─ models // req, res model
-├─ layouts // 레이아웃
-├─ constants // 상수
-├─ store // 상태 관리 스토어
+├── common
+└── home
+├─ pages
+├─ models
+├─ layouts
+├─ lib
+├─ constants
+├─ store
 ├─ mocks
-├─ styles // 전역 스타일링, theme
+├─ styles
 ├─ types
-├─ utils // 유틸리티 함수 (자주 사용되는 기능 모듈화)
-├─ hooks // 커스텀 훅
+├─ routes
+├─ utils
+├─ hooks
 ├─ routes
 ├─ App.tsx
 └─ index.tsx
